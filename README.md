@@ -15,5 +15,5 @@ Replace words by weighted frequency in sentences
 Sort sentences in descending order of weights
 Summarizing the Article
 
-##**Dataset:**
+## **Dataset:**
 The data was obtained from the URL using the concept of Web scraping. 
