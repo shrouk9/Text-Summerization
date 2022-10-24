@@ -5,6 +5,7 @@ Text summarization is an NLP technique that extracts text from a large amount of
 #### **There are two approaches for text summarization: NLP based techniques and deep learning techniques.**
 #### **In project, I went through an NLP based technique which make use of the NLTK library.**
 
+## **Dataset:** The data was obtained from the URL using the concept of Web scraping. 
 ## **Text Summarization steps**
 #### - Obtain Data
 
@@ -22,5 +23,4 @@ Text summarization is an NLP technique that extracts text from a large amount of
 
 #### - Summarizing the Article
 
-## **Dataset:**
-The data was obtained from the URL using the concept of Web scraping. 
+
