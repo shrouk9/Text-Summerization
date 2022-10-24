@@ -6,9 +6,9 @@ Text summarization is an NLP technique that extracts text from a large amount of
 #### **In project, I went through an NLP based technique which make use of the NLTK library.**
 
 ## **Text Summarization steps**
-Obtain Data
-Text Preprocessing
-Convert paragraphs to sentences
+####- Obtain Data
+####- Text Preprocessing
+####- Convert paragraphs to sentences
 Tokenizing the sentences
 Find weighted frequency of occurrence
 Replace words by weighted frequency in sentences
